@@ -156,4 +156,3 @@ If you use AMRPA in your research, please cite:
 
 ## License
 
-MIT License
